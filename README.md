@@ -1,4 +1,0 @@
-felzenswalb
-===========
-
-Fenzenswalb Segmentation
